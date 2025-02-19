@@ -32,7 +32,7 @@ export function Navbar() {
             <Github className="h-5 w-5" />
           </Button>
         </Link>
-        <Link href="https://x.com/Qudeai">
+        <Link href="https://x.com/qude_framework">
           <Button variant="ghost" size="icon">
             <Twitter className="h-5 w-5" />
           </Button>
