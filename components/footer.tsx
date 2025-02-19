@@ -101,7 +101,7 @@ export function Footer() {
             </h3>
             <div className="space-y-3">
               <Link
-                href="https://x.com/Qudeai"
+                href="https://x.com/qude_framework"
                 className="flex items-center gap-1 text-sm"
                 style={{
                   color: 'rgba(51, 51, 51, 0.8)',
@@ -111,7 +111,7 @@ export function Footer() {
                 <ExternalLink style={{ height: '1rem', width: '1rem' }} />
               </Link>
               <Link
-                href="https://t.me/qudeai"
+                href="https://t.me/qudeaiportal"
                 className="flex items-center gap-1 text-sm"
                 style={{
                   color: 'rgba(51, 51, 51, 0.8)',
